@@ -55,3 +55,15 @@ __This will also be bold__
 ---
 ***
 ___
+
+## 탈출문자
+＼*literal asterisks＼* 
+*literal asterisks* 
+__＼*＼*Text＼*＼*__ 
+_＼_Tom＼__
+
+## 체크박스
+- [x] this is a complete item 
+- [ ] this is an incomplete item 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported 
+- [x] list syntax required (any unordered or ordered list supported)

@@ -46,3 +46,7 @@ _This will also be italic_
 __This will also be bold__ 
 
 *You **can** combine them*
+
+## 인라인 코드
+문단 중간에 `Code`를 넣을 수 있습니다. 
+예를 들어 `printf("hello world!");` 이런 식으로 들어갑니다.
